@@ -21,4 +21,4 @@
 
 ## 🔗 Connect with Me
 - **GitHub:** [shulliiii](https://github.com/shulliiii)
-- **Email:** [Your Academic Email]
+- **Email:** [10255102529@stu.ecnu.edu.cn]
